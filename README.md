@@ -1,4 +1,5 @@
 # Elkapub Website : 2023/08/27
+## make sure to check on the website pdf prototype, I woked with my friend oussama elichaoui on the design part and we use figma 😃
 This repository contains the source code for the Elkapub website. The website is designed to provide information about Elkapub and its offerings. It consists of the following sections: Home, About, Services, and Contact.
 
 # Sections
